@@ -1,0 +1,26 @@
+{
+  "name": "dockyard",
+  "version": "1.0.0",
+  "description": "Dockyard is the Library which will talk to the Orchestration Layer and Transmits the data back to the Core Engine",
+  "main": "dockyard.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dockerstack/dockyard.git"
+  },
+  "keywords": [
+    "Dockyard"
+  ],
+  "author": "K.G.R Vamsi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dockerstack/dockyard/issues"
+  },
+  "homepage": "https://github.com/dockerstack/dockyard",
+  "dependencies": {
+    "restler": "^3.2.2",
+    "toml": "^2.1.1"
+  }
+}
